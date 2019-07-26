@@ -1,0 +1,5 @@
+---
+# defaults file for java
+
+java_home: ""
+java_package: java-1.8.0-openjdk
